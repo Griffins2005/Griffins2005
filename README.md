@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Griffins Kiptanui Lelgut</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EC4B6&center=true&vCenter=true&width=435&lines=Data+Science+%7C+Full-Stack+%7C+AI+%F0%9F%8F%8B%EF%B8%8F;Learning+%7C+Building+%7C+Growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EC4B6&center=true&vCenter=true&width=435&lines=Data+Science+%7C+Full-Stack+%7C+AI;Learning+%7C+Building+%7C+Growing" alt="Typing SVG" />
 </p>
 
 ---
