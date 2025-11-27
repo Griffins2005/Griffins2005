@@ -11,7 +11,7 @@
 ## About Me
 
 - **Student @Cornell University** (Information Science, CALS)
-- Born and raised in Kenya 🇰🇪 | Now in Ithaca, NY 🇺🇸
+- Born and raised in Kenya
 - **Tech Interests:** Data Science, Full-Stack Web Dev, Blockchain, AI/ML
 - Currently learning **advanced Java & Python**, AI applications, and practical data science
 - Football fan (Chelsea FC , Messi )
@@ -19,7 +19,7 @@
 
 ---
 
-## 🚀 My GitHub Stats
+## My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Griffins2005&show_icons=true&theme=radical" alt="Griffins's GitHub stats" />
@@ -35,13 +35,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,html,css,tailwind,mysql,mongodb,git,linux" />
 </p>
-
----
-
-## Fun Facts
-
--  I love nurturing both code and crops—gardening is my zen
--  I’m a lifelong learner and always up for a good coding challenge or hackathon
 
 ---
 
