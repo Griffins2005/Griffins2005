@@ -24,28 +24,30 @@ End-to-end modeling workflow: EDA → feature engineering → logistic regressio
 
 ---
 
-## Technical Focus
+## Tech Stack
 
-**Cloud & Distributed Systems**
-Workers, Durable Objects, edge compute patterns, backend architecture.
-
-**ML & Foundations**
-Regression, classification, clustering, optimization, feature engineering, evaluation metrics.
-
-**Full-Stack Engineering**
-React, Next.js, Node.js, systems-first approach to API design and product delivery.
-
-**Data & Systems Tools**
-Python · Java · JavaScript/TypeScript · Pandas · NumPy · scikit-learn · DuckDB
-MongoDB · MySQL
-Cloudflare Workers · Durable Objects · Git 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+</p>
 
 ---
 
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Griffins2005&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Griffins2005&theme=dark&hide_border=true" />
+  <br/>
+  <img src="https://github-contributions.vercel.app/api/v1/Griffins2005?chart=contributions&format=svg&theme=nightowl" />
 </p>
 ---
 
@@ -58,5 +60,3 @@ Cloudflare Workers · Durable Objects · Git
 *Build systems that scale, models that learn, and products that matter.*
 
 ---
-
-
