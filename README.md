@@ -42,12 +42,10 @@ Uses transformer-based models to condense long-form articles into concise, high-
 
 ---
 
-## Contribution Activity
-
 <p align="center">
   <img
-    src="https://github.pumbas.net/api/contributions/Griffins2005?grouping=weekly&colour=4BB5FC&bgColour=161B22&dotColour=E5E5E5"
-    alt="Griffins's Contributions Graph"
+    src="https://github.pumbas.net/api/contributions/Griffins2005?days=365&colour=4BB5FC&bgColour=161B22&dotColour=E5E5E5&borderRadius=4.5"
+    alt="Griffins2005's Contributions"
   />
 </p>
 
