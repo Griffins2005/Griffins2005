@@ -46,6 +46,8 @@ Uses transformer-based models to condense long-form articles into concise, high-
   <img
     src="https://github.pumbas.net/api/contributions/Griffins2005?days=365&colour=4BB5FC&bgColour=161B22&dotColour=E5E5E5&borderRadius=4.5"
     alt="Griffins2005's Contributions"
+    width="900"
+    height="260"
   />
 </p>
 
