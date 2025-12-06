@@ -9,18 +9,18 @@ Cornell ’28 • Information Science (Data Science) • Cornell Blockchain • 
 ## Featured Work
 
 **cf_ai_api_copilot**
-Cloudflare-native agent that ingests OpenAPI/Swagger specs, builds persistent structured digests, and answers multi-turn API questions using Workers AI + Durable Objects.
+- Cloudflare-native agent that ingests OpenAPI/Swagger specs, builds persistent structured digests, and answers multi-turn API questions using Workers AI + Durable Objects.
 Designed for reliability, grounded inference, and production-grade state management.
 
 **Nestopia**
-Full-stack rental marketplace that computes weighted compatibility scores between renters and properties, with optional ML matching (collaborative filtering + semantic embeddings) and a FastAPI/PostgreSQL backend powering authentication, listing management, and direct landlord–renter contact.
+- Full-stack rental marketplace that computes weighted compatibility scores between renters and properties, with optional ML matching (collaborative filtering + semantic embeddings) and a FastAPI/PostgreSQL backend powering authentication, listing management, and direct landlord–renter contact.
 
 **AI News Summarizer**
-NLP-powered summarization tool deployed on Vercel.
+- NLP-powered summarization tool deployed on Vercel.
 Uses transformer-based models to condense long-form articles into concise, high-signal summaries with an interactive web interface.
 
 **Bank Marketing Analytics**
-End-to-end modeling workflow: EDA → feature engineering → logistic regression → interpretation benchmarking.
+- End-to-end modeling workflow: EDA → feature engineering → logistic regression → interpretation benchmarking.
 
 ---
 
@@ -45,9 +45,10 @@ End-to-end modeling workflow: EDA → feature engineering → logistic regressio
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Griffins2005&theme=dark&hide_border=true" />
-  <br/>
-  <img src="https://github-contributions.vercel.app/api/v1/Griffins2005?chart=contributions&format=svg&theme=nightowl" />
+  <img
+    src="https://github.pumbas.net/api/contributions/Griffins2005?colour=4BB5FC&bgColour=161B22&dotColour=E5E5E5"
+    alt="Griffins2005's Contributions"
+  />
 </p>
 ---
 
