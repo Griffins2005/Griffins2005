@@ -46,13 +46,12 @@ Uses transformer-based models to condense long-form articles into concise, high-
 
 <p align="center">
   <img
-    src="https://github.pumbas.net/api/contributions/Griffins2005?colour=4BB5FC&bgColour=161B22&dotColour=E5E5E5"
-    alt="Griffins2005's Contributions"
+    src="https://github.pumbas.net/api/contributions/Griffins2005?grouping=weekly&colour=4BB5FC&bgColour=161B22&dotColour=E5E5E5"
+    alt="Griffins's Contributions Graph"
   />
 </p>
----
 
-## Links
+---
 
 **[My Website](https://griffinslelgut.vercel.app/)** • **[LinkedIn](https://www.linkedin.com/in/griffins-kiptanui-374a1a277/)** • **[Email](mailto:griffinstanui14@gmail.com)**
 
