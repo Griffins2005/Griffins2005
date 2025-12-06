@@ -43,10 +43,9 @@ Uses transformer-based models to condense long-form articles into concise, high-
 ---
 
 <p align="center">
-  <img 
-    src="https://github-contributions.vercel.app/api/v1/Griffins2005?format=svg&theme=nightowl&chart=linear" 
-    alt="Griffins' Contribution Graph" 
-    width="900"
+  <img
+    src="https://github.pumbas.net/api/contributions/Griffins2005?grouping=weekly&colour=4BB5FC&bgColour=161B22&dotColour=E5E5E5"
+    alt="Griffins' Contributions"
   />
 </p>
 
