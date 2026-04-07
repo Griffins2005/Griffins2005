@@ -44,21 +44,6 @@ Uses transformer-based models to condense long-form articles into concise, high-
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Griffins2005/Griffins2005/output/pacman-contribution-graph-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Griffins2005/Griffins2005/output/pacman-contribution-graph.svg"
-  />
-  <img
-    alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/Griffins2005/Griffins2005/output/pacman-contribution-graph.svg"
-  />
-</picture>
-
 <br/>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Griffins2005&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=00ff41&point=ffffff&area=true&area_color=00ff41)
