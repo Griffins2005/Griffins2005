@@ -65,7 +65,7 @@ Uses transformer-based models to condense long-form articles into concise, high-
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=TonyOdhiambo-47&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=58a6ff" width="500" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Griffins2005&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=58a6ff" width="500" />
 
 </div>
 ---
