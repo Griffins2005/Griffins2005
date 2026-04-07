@@ -42,13 +42,32 @@ Uses transformer-based models to condense long-form articles into concise, high-
 
 ---
 
-<p align="center">
-  <img
-    src="https://github.pumbas.net/api/contributions/Griffins2005?grouping=weekly&colour=4BB5FC&bgColour=161B22&dotColour=E5E5E5"
-    alt="Griffins' Contributions"
-  />
-</p>
+<div align="center">
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Griffins2005/Griffins2005/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Griffins2005/Griffins2005/output/pacman-contribution-graph.svg"
+  />
+  <img
+    alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/Griffins2005/Griffins2005/output/pacman-contribution-graph.svg"
+  />
+</picture>
+
+<br/>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Griffins2005&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=00ff41&point=ffffff&area=true&area_color=00ff41)
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=TonyOdhiambo-47&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=58a6ff" width="500" />
+
+</div>
 ---
 
 **[My Website](https://griffinslelgut.vercel.app/)** • **[LinkedIn](https://www.linkedin.com/in/griffins-kiptanui-374a1a277/)** • **[Email](mailto:griffinstanui14@gmail.com)**
