@@ -1,4 +1,4 @@
-# Griffins Kiptanui Lelgut
+# Griffins Lelgut
 
 **Software Engineering • Machine Learning • Full-Stack • Applied Data**
 
