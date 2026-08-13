@@ -2,7 +2,7 @@
 
 **Software Engineering • AI Agents • Full-Stack • Applied Data**
 
-Cornell ’28 • B.S. Information Science (Data Science) • SWE Intern, LTSCT • AI Ignite Fellow
+Cornell ’28 • B.S. Information Science (Data Science) 
 
 ---
 
