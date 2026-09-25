@@ -47,9 +47,9 @@ Cornell ’28 • B.S. Information Science
 
 <div align="center">
 
-### Contribution graph (last 31 days)
+### GitHub activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Griffins2005&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" width="100%" />
+[View my contribution graph on GitHub](https://github.com/Griffins2005?tab=overview#user-activity-overview)
 
 <img src="https://ssr-contributions-svg.vercel.app/_/Griffins2005?chart=3dbar&format=svg" alt="GitHub contributions" width="100%" />
 
