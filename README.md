@@ -8,7 +8,7 @@ Cornell ’28 • B.S. Information Science (Data Science)
 
 ## Featured Work
 
-**[ORCA](https://griffinslelgut.vercel.app/projects)** — AI Agent Guardrail System (LTTS Hackathon)
+**[ORCA](https://github.com/Griffins2005/bug-bytes)** — AI Agent Guardrail System (LTTS Hackathon)
 - Policy Gate: a deterministic rule engine that screens every AI-agent action before execution (denylist, prompt-injection guard, least-privilege allowlist, human-approval interlock).
 - Governance Gate: a task agent reports confidence while a judge agent independently reviews output; disagreement freezes the run.
 
