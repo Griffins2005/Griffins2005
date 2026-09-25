@@ -2,7 +2,7 @@
 
 **Software Engineering • AI Agents • Full-Stack • Applied Data**
 
-Cornell ’28 • B.S. Information Science (Data Science) 
+Cornell ’28 • B.S. Information Science 
 
 ---
 
@@ -18,7 +18,7 @@ Cornell ’28 • B.S. Information Science (Data Science)
 
 **[Nestopia](https://github.com/Griffins2005/Nestopia)** — Rental Matching Platform
 - Preference-weighted compatibility scores between renters and properties, with listing, auth, and landlord–renter workflows.
-- FastAPI + PostgreSQL backend and React frontend; live at [nestopia-rental.vercel.app](https://nestopia-rental.vercel.app).
+- FastAPI + PostgreSQL backend and React frontend; live at [Nestopia](https://nestopia-rental.vercel.app)[Backend](https://nestopia-rental.vercel.app).
 
 **[CF AI API Copilot](https://github.com/Griffins2005/cf-ai-api-copilot)** — Cloudflare Workers Assistant
 - Ingests OpenAPI/Swagger specs, persists digests and chat history in Durable Objects, and answers multi-turn API questions with Workers AI.
