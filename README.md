@@ -49,9 +49,11 @@ Cornell ’28 • B.S. Information Science
 
 ### GitHub activity
 
-[View my contribution graph on GitHub](https://github.com/Griffins2005?tab=overview#user-activity-overview)
-
-<img src="https://ssr-contributions-svg.vercel.app/_/Griffins2005?chart=3dbar&format=svg" alt="GitHub contributions" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Griffins2005/Griffins2005/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Griffins2005/Griffins2005/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man playing across Griffins Lelgut's GitHub contribution graph" src="https://raw.githubusercontent.com/Griffins2005/Griffins2005/output/pacman-contribution-graph.svg" width="100%">
+</picture>
 
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Griffins2005&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="GitHub streak" width="495" />
 
